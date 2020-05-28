@@ -1,0 +1,3 @@
+ExampleName1 exampleEmail1@gmail.com 2:00 PM
+ExampleName2 exampleEmail2@aol.com 6:30 PM
+ExampleName3 exampleEmail3@yahoo.com 10:00 AM
